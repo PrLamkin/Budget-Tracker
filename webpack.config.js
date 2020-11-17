@@ -36,7 +36,7 @@ const config = {
             icons: [{
                 destination: "icons",
                 src: join(__dirname + "/client-src/icons/icon-512x512.png"),
-                sizes: [96, 128, 192, 256, 384, 512] // multiple sizes
+                sizes: [96, 128, 192, 256, 384, 512]
             }]
         })
     ]
