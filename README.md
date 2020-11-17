@@ -18,7 +18,7 @@
     ## Usage:
         Be amazed one and all! with my newest app, the budget tracker! all you have to do, is click on the link and start saving money like a pro. and if you lose internet connection have no fear for the browser stores the cache for it and then submits it when you reconnect!
     ## Contributing Party's
-        Definitely Peter
+        V8 and all the Boi's back home that said I could do it. Thank you lads.
     ## Test:
         N/A
     ##  Credits:
